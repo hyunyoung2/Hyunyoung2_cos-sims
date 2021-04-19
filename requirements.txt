@@ -1,0 +1,2 @@
+konlpy  0.5.2
+scikit-learn 0.22.2.post1 
