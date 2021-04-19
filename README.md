@@ -16,7 +16,7 @@ Keep it under data directory
 
 If you want run, execute the file as follows
 
-'''
+```
 python3 make_morpheme.py
 
-'''
+```
